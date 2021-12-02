@@ -3,11 +3,7 @@ body {
     margin: 0px;
     width: 100vw;
     height: 100vh;
-
     display: flex;
-   
-  
-    
     background-color: orange;
     flex-direction: row;
     justify-content: center;
@@ -23,6 +19,7 @@ body {
     margin-left: 10px;
     margin-right: 10px;
 }
+
 .box02 {
 
     width: 500px;
